@@ -7,7 +7,8 @@
 
 .landing-text-container{
     margin-right: 2em;
-    width: 40vw
+    width: 40vw;
+    cursor: default;
 }
 
 .landing-text-container h1{
